@@ -1,0 +1,2 @@
+# Heap
+Heap data structure. A heap is a binary tree with certain characteristics. It’s complete. This means it’s completely filled in, reading from left to right across each row, although the last row need not be full. It’s (usually) implemented as an array. Each node in a heap satisfies the heap condition, which states that every nodes key is larger than (or equal to) the keys of its children. A priority queue based on such a heap is a descending-priority queue.
